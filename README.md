@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Techlord
+- 👀 I’m interested in C/C#
+- 🌱 I’m currently learning C/C#
+- 📫 How to reach me techlord210@gmail.com
